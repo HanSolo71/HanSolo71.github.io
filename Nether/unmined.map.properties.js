@@ -7,6 +7,7 @@ var UnminedMapProperties = {
     minRegionX: -2,
     minRegionZ: -1,
     maxRegionX: 0,
-    maxRegionZ: 0,
-    worldName: "Millennium Falcon"
+    maxRegionZ: 1,
+    worldName: "Millennium Falcon",
+    markers: new Array()
 }
