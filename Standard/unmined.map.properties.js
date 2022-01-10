@@ -5,7 +5,7 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "webp",
     minRegionX: -10,
-    minRegionZ: -5,
+    minRegionZ: -8,
     maxRegionX: 15,
     maxRegionZ: 4,
     worldName: "Millennium Falcon",
